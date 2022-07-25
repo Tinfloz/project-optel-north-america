@@ -1,0 +1,16 @@
+"company_name","location","location_type","sales","url","phone_number","rnk"
+"Johnson & Johnson","New Jersey(Usa)","Headquarters",93775000000,"www.jnj.com","(732) 524-0400",1
+"Pfizer Inc.","New York(Usa)","Headquarters",81288000000,"www.pfizer.com","(212) 733-2323",2
+"Abbvie Inc.","Illinois(Usa)","Headquarters",56197000000,"www.abbvie.com","(847) 932-7900",3
+"Novartis Pharmaceuticals Corporation","New Jersey(Usa)","Headquarters",49436000000,"www.novartis.us","(862) 778-8300",4
+"Merck & Co., Inc.","New Jersey(Usa)","Headquarters",48704000000,"www.merck.com","(908) 740-4000",5
+"Bristol-Myers Squibb Company","New York(Usa)","Headquarters",46385000000,"www.bms.com","(212) 546-4000",6
+"Abbott Laboratories","Illinois(Usa)","Headquarters",43075000000,"www.abbott.com","(224) 667-6100",7
+"Eli Lilly And Company","Indiana(Usa)","Headquarters",28318400000,"www.lilly.com","(317) 276-2000",8
+"Gilead Sciences, Inc.","California(Usa)","Headquarters",27305000000,"www.gilead.com","(650) 574-3000",9
+"Amgen Inc.","California(Usa)","Headquarters",25979000000,"www.amgen.com","(805) 447-1000",10
+"Moderna, Inc.","Massachusetts(Usa)","Headquarters",18471000000,"www.modernatx.com","(617) 714-6500",11
+"Viatris Inc.","Pennsylvania(Usa)","Headquarters",17886300000,NULL,"(304) 599-2595",12
+"Regeneron Pharmaceuticals Inc","New York(Usa)","Headquarters",16071700000,"www.regeneron.com","(914) 847-7000",13
+"Celgene Corporation","New Jersey(Usa)","Headquarters",15281000000,"www.bms.com","(908) 673-9000",14
+"Biogen Inc.","Massachusetts(Usa)","Headquarters",10981700000,"www.biogen.com","(617) 679-2000",15
